@@ -1101,6 +1101,28 @@
       "language": "LANG_ENGLISH"
     },
     {
+      "id": "micronaut-data-oracle-etag",
+      "url": "https://guides.micronaut.io/micronaut-data-oracle-etag-gradle-java/",
+      "title": "Value-based optimistic locking with Micronaut Data JDBC and Oracle",
+      "content_text": "Learn how to use Oracle SYS_ROW_ETAG values for optimistic locking with Micronaut Data JDBC.",
+      "date_published": "2026-08-20T00:00:00Z",
+      "authors": [
+        {
+          "name": "Radovan Radic"
+        }
+      ],
+      "tags": [
+        "database",
+        "micronaut-data",
+        "jdbc",
+        "oracle",
+        "optimistic-locking",
+        "etag",
+        "data-jdbc"
+      ],
+      "language": "LANG_ENGLISH"
+    },
+    {
       "id": "micronaut-data-oracle-geospatial-nearby-drivers",
       "url": "https://guides.micronaut.io/micronaut-data-oracle-geospatial-nearby-drivers-gradle-java/",
       "title": "Find Nearby Delivery Drivers with Micronaut Data JDBC and Oracle Geospatial",

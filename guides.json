@@ -2189,6 +2189,56 @@
     ]
   },
   {
+    "title": "Value-based optimistic locking with Micronaut Data JDBC and Oracle",
+    "intro": "Learn how to use Oracle SYS_ROW_ETAG values for optimistic locking with Micronaut Data JDBC.",
+    "authors": [
+      "Radovan Radic"
+    ],
+    "tags": [
+      "database",
+      "micronaut-data",
+      "jdbc",
+      "oracle",
+      "optimistic-locking",
+      "etag",
+      "data-jdbc"
+    ],
+    "category": "Data JDBC",
+    "categories": [
+      "Data JDBC"
+    ],
+    "publicationDate": "2026-08-20",
+    "slug": "micronaut-data-oracle-etag",
+    "url": "https://guides.micronaut.io/micronaut-data-oracle-etag-gradle-java/",
+    "options": [
+      {
+        "buildTool": "GRADLE",
+        "language": "JAVA",
+        "url": "https://guides.micronaut.io/micronaut-data-oracle-etag-gradle-java/"
+      },
+      {
+        "buildTool": "GRADLE",
+        "language": "KOTLIN",
+        "url": "https://guides.micronaut.io/micronaut-data-oracle-etag-gradle-kotlin/"
+      },
+      {
+        "buildTool": "GRADLE",
+        "language": "GROOVY",
+        "url": "https://guides.micronaut.io/micronaut-data-oracle-etag-gradle-groovy/"
+      },
+      {
+        "buildTool": "MAVEN",
+        "language": "JAVA",
+        "url": "https://guides.micronaut.io/micronaut-data-oracle-etag-maven-java/"
+      },
+      {
+        "buildTool": "MAVEN",
+        "language": "GROOVY",
+        "url": "https://guides.micronaut.io/micronaut-data-oracle-etag-maven-groovy/"
+      }
+    ]
+  },
+  {
     "title": "Find Nearby Delivery Drivers with Micronaut Data JDBC and Oracle Geospatial",
     "intro": "Learn how to use Micronaut Data JDBC and Oracle spatial queries to find the closest available delivery driver within 5 km of a food delivery order.",
     "authors": [
